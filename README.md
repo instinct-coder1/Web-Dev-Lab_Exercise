@@ -13,7 +13,7 @@ Our team is building a shared student profile website using HTML, Git, and GitHu
 | Student 1 | [@instinct-coder1](https://github.com/instinct-coder1) | Team Lead and Reviewer |
 | Student 2 | [@Nit-2520](https://github.com/Nit-2520) | Profile Developer |
 | Student 3 | [@MOHDFAIZ03](https://github.com/MOHDFAIZ03) | Skills Developer |
-| Student 4 | [@deepak-sonkar] (https://github.com/deepak-sonkar) | Contact Developer |
+| Student 4 | [@deepak-sonkar](https://github.com/deepak-sonkar) | Contact Developer |
 
 ## 3. Branch and File Allocation
 
